@@ -18,7 +18,7 @@ This project compares three different Dollar Cost Averaging (DCA) strategies for
 
 ### Regular Interval Strategy
 - Time in Market: 9.99 Years
-- Time in Market: 120 Months
+- Time in Market: 80 Months
 - Total Stock Count: 524
 - Purchase Cost: $129,770.11
 - Gross Return USD: $119,061.10
